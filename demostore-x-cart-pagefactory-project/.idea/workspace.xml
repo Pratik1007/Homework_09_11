@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dd55cda-8320-4826-bf9e-359c2940f764" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TWoVSxz9eNakFyOtgMBmcGNzVY" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MISARI\IdeaProjects\demostore-x-cart-pagefactory-project" />
+      <recent name="C:\Users\MISARI\IdeaProjects\demostore-x-cart-pagefactory-project\src\test\java\com\xcart\demostore" />
+      <recent name="C:\Users\MISARI\IdeaProjects\demostore-x-cart-pagefactory-project\src\main\java\com\xcart\demostore" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ItemTest.userShouldNavigateToLaceUpBootsPageSucessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demostore-x-cart-pagefactory-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xcart.demostore.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xcart.demostore.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.xcart.demostore.testsuite.ItemTest" />
+      <option name="METHOD_NAME" value="userShouldNavigateToLaceUpBootsPageSucessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ItemTest.userShouldNavigateToLaceUpBootsPageSucessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dd55cda-8320-4826-bf9e-359c2940f764" name="Default Changelist" comment="" />
+      <created>1573585235328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573585235328</updated>
+    </task>
+    <servers />
+  </component>
+</project>
